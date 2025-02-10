@@ -347,7 +347,7 @@ def convert_to_m3u(first_channel_name=None):
     user_final_file = resource_path(config.final_file)
     if os.path.exists(user_final_file):
         with open(user_final_file, "r", encoding="utf-8") as file:
-            m3u_output = '#EXTM3U'
+            m3u_output = '#EXTM3U \n'
             current_group = None
             for line in file:
                 trimmed_line = line.strip()
