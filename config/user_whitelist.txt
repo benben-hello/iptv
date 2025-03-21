@@ -1,1 +1,14 @@
 https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
+河南都市,http://150.158.10.195:80/dxxw.php?id=hnds
+河南民生,http://150.158.10.195:80/dxxw.php?id=hnms
+河南法治,http://150.158.10.195:80/dxxw.php?id=hmfz
+河南电视剧,http://150.158.10.195:80/dxxw.php?id=hndsj
+河南新闻,http://150.158.10.195:80/dxxw.php?id=hnxw
+河南公共,http://150.158.10.195:80/dxxw.php?id=hngg
+河南乡村,http://150.158.10.195:80/dxxw.php?id=hnxc
+河南梨园,http://150.158.10.195:80/dxxw.php?id=hnly
+河南文物宝库,http://150.158.10.195:80/dxxw.php?id=wwbk
+河南武术世界,http://150.158.10.195:80/dxxw.php?id=wspd
+河南睛彩中原,http://150.158.10.195:80/dxxw.php?id=jczy
+河南移动戏曲,http://150.158.10.195:80/dxxw.php?id=ydxj
+河南象视界,http://150.158.10.195:80/dxxw.php?id=xsj
