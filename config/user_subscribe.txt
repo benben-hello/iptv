@@ -1,2 +1,1 @@
 # https://raw.githubusercontent.com/ayzyj/zz/main/tv.txt
-https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
