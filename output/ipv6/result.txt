@@ -272,10 +272,7 @@ CCTV-17,http://ygbh.site/php/bfgd.php?id=204
 河南都市,https://migu.188766.xyz/?migutoken=40f39d69e4477e3af15b576e9a6a6764&id=%E9%83%BD%E5%B8%82%E9%A2%91%E9%81%93&type=yy
 河南都市,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227241/index.m3u8
 河南都市,http://1.94.31.214/php/hntv.php?id=hnds
-河南都市,https://migu.188766.xyz/?migutoken=40f39d69e4477e3af15b576e9a6a6764&id=%E9%83%BD%E5%B8%82%E9%A2%91%E9%81%93&type=yy
 河南民生,http://150.158.10.195:80/dxxw.php?id=hnms
-河南民生,https://migu.188766.xyz/?migutoken=61a4397d0412aab2f8f9b783d7481503&id=%E6%B0%91%E7%94%9F%E9%A2%91%E9%81%93&type=yy
-河南民生,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227268/index.m3u8
 河南民生,https://migu.188766.xyz/?migutoken=61a4397d0412aab2f8f9b783d7481503&id=%E6%B0%91%E7%94%9F%E9%A2%91%E9%81%93&type=yy
 河南民生,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227268/index.m3u8
 河南公共,http://150.158.10.195:80/dxxw.php?id=hngg
