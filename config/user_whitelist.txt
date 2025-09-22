@@ -1,5 +1,4 @@
 https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
-河南卫视,http://150.158.10.195:80/dxxw.php?id=hnws
 河南都市,http://150.158.10.195:80/dxxw.php?id=hnds
 河南民生,http://150.158.10.195:80/dxxw.php?id=hnms
 河南法治,http://150.158.10.195:80/dxxw.php?id=hmfz
