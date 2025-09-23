@@ -10,7 +10,7 @@ https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
 河南梨园,http://150.158.10.195:80/dxxw.php?id=hnly
 河南文物宝库,http://150.158.10.195:80/dxxw.php?id=wwbk
 河南武术世界,http://150.158.10.195:80/dxxw.php?id=wspd
-
+# https://fy.188766.xyz/?ip=192.168.1.2%E5%86%B0%E8%8C%B6
 CCTV-1 综合,https://migu.188766.xyz/?migutoken=2627ab06b0475ea919169f28bbd31bd1&id=CCTV1&type=yy
 CCTV-2 财经,https://migu.188766.xyz/?migutoken=9ea1503d801cbbaf5d06d0320bae9060&id=CCTV2&type=yy
 CCTV-3 综艺,https://migu.188766.xyz/?migutoken=5c001a0ac37b944519bb130985b3147d&id=CCTV3&type=yy
