@@ -7,4 +7,4 @@
 # https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
 # https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.txt
 https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
-https://raw.githubusercontent.com/fleung49/star/main/cat
+https://fy.188766.xyz/?ip=192.168.1.2%E5%86%B0%E8%8C%B6
