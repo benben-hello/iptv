@@ -1,5 +1,5 @@
 https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
-https://raw.githubusercontent.com/fleung49/star/main/cat
+https://fy.188766.xyz/?ip=192.168.1.2%E5%86%B0%E8%8C%B6
 河南卫视,http://150.158.10.195:80/dxxw.php?id=hnws
 河南都市,http://150.158.10.195:80/dxxw.php?id=hnds
 河南民生,http://150.158.10.195:80/dxxw.php?id=hnms
