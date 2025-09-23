@@ -1,0 +1,12 @@
+卫视频道,#genre#
+河南卫视,http://150.158.10.195:80/dxxw.php?id=hnws
+
+河南频道,#genre#
+河南卫视,http://150.158.10.195:80/dxxw.php?id=hnws
+河南都市,http://150.158.10.195:80/dxxw.php?id=hnds
+河南民生,http://150.158.10.195:80/dxxw.php?id=hnms
+河南公共,http://150.158.10.195:80/dxxw.php?id=hngg
+河南新闻,http://150.158.10.195:80/dxxw.php?id=hnxw
+河南电视剧,http://150.158.10.195:80/dxxw.php?id=hndsj
+河南乡村,http://150.158.10.195:80/dxxw.php?id=hnxc
+河南梨园,http://150.158.10.195:80/dxxw.php?id=hnly
